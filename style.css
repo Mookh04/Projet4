@@ -714,8 +714,16 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 15px auto 15px auto;
 }
+
+@media (max-width:768px) {   
+    .row.row-no-gutters{
+        display: flex;
+        justify-content: space-around;
+
+    }
+    }
 
 h2 {
     font-size: 22px;
@@ -758,6 +766,15 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    margin: auto;
+}
+
+@media (max-width: 768px) {
+
+.img-responsive.portfolio-thumb{
+    width: 320px;
+    height: 320px;
+}
 }
 
 .portfolio-row {
@@ -1057,3 +1074,13 @@ h4 {
         text-align: center;
     }
 }
+
+.part-footer {
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+.list-footer{
+    padding-top: 25px;
+}
+
