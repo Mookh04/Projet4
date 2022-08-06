@@ -413,6 +413,12 @@ nav .caret {
     margin: 0 5px;
 }
 
+@media (min-width: 768px){
+.hidden-contact{
+    display: none;
+}
+
+}
 .dropdown-menu .dropdown-menu {
     top: -8px;
     left: 100%;
