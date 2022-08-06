@@ -677,8 +677,15 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
+
+.quote{
+    font-size: 20px;
+    line-height: 110%;
+}
+
+
 
 .tight-width-whitespace {
     max-width: 600px;
