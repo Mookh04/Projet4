@@ -787,7 +787,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(114, 96, 46, 0.86);
     padding: 40px 40px 40px 40px;
 }
 
@@ -809,12 +809,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F1A37E!important;
 }
 
 .btn-atomic-tangerine {
-    background: #CB4B10;
-    color: #FFFFFF!important;
+    background: #F3976C;
+    color: #424242!important;
 }
 
 .btn-atomic-tangerine:hover {
