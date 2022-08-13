@@ -1103,3 +1103,8 @@ label:before{
     content: "*";
     color: red;
 }
+
+.author{
+    color: #747575;
+}
+
