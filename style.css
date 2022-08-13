@@ -1087,3 +1087,7 @@ h4 {
     width: 200px;
     margin: auto;
 }
+
+.text-heigt{
+    line-height: 22px;
+}
