@@ -1098,6 +1098,8 @@ h4 {
     }
 }
 
-label abbr{
+
+label:before{
+    content: "*";
     color: red;
 }
