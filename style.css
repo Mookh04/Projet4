@@ -1091,3 +1091,9 @@ h4 {
 .text-heigt{
     line-height: 22px;
 }
+
+@media (min-width: 768px) {
+    .contact-p2{
+        margin-top: 20px;
+    }
+}
