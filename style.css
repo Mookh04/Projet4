@@ -1114,3 +1114,14 @@ label:before{
     color: white;
 }
 
+.ready{
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+@media (max-width: 767px) {
+    .ready{
+        font-size: 14px;
+    }
+    
+}
