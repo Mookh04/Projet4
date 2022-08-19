@@ -1083,10 +1083,6 @@ h4 {
     padding-top: 25px;
 }
 
-.heading-formulaire{
-    font-size: 24px;
-}
-
 .partenaires{
     width: 200px;
     margin: auto;
@@ -1110,5 +1106,11 @@ label:before{
 
 .author{
     color: #747575;
+}
+
+.contact-panth{
+    display: flex;
+    justify-content: center;
+    color: white;
 }
 
