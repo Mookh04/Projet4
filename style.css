@@ -1126,3 +1126,13 @@ label:before{
     }
     
 }
+
+@media (max-width:767px) {
+    .formulaire-mobile{
+        width: 90%;
+    }
+
+    .bloc-sm{
+        padding-bottom: 0;
+    }
+}
