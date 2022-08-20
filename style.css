@@ -1136,3 +1136,21 @@ label:before{
         padding-bottom: 0;
     }
 }
+
+
+a:focus{
+    box-shadow: 1.5px 1px 1px black;
+}
+
+button:focus{
+    border: 1.5px solid black
+
+}   
+
+#cta-hero:focus{
+    border: 1.5px solid white;
+}          
+
+.img-responsive:focus{
+    box-shadow: 5px 5px 5px red;
+}
